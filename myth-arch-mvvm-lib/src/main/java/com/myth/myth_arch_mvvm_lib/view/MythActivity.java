@@ -1,11 +1,11 @@
-package com.ywq.myth_arch_mvvm_lib.view;
+package com.myth.myth_arch_mvvm_lib.view;
 
 import android.os.Bundle;
 
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.ywq.myth_arch_mvvm_lib.MythView;
+import com.myth.myth_arch_mvvm_lib.MythView;
 
 public class MythActivity extends AppCompatActivity implements MythView {
     MythViewProvider provider = null;

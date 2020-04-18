@@ -1,4 +1,4 @@
-package com.ywq.myth_arch_mvvm_lib.event;
+package com.myth.myth_arch_mvvm_lib.event;
 
 public class OnceEvent<T> {
 

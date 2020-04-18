@@ -1,11 +1,9 @@
-package com.ywq.myth_arch_mvvm_android_java;
-
-import androidx.appcompat.app.AppCompatActivity;
+package com.myth.myth_arch_mvvm_android_java;
 
 import android.os.Bundle;
 import android.view.View;
 
-import com.ywq.myth_arch_mvvm_lib.view.MythActivity;
+import com.myth.myth_arch_mvvm_lib.view.MythActivity;
 
 public class MainActivity extends MythActivity {
 

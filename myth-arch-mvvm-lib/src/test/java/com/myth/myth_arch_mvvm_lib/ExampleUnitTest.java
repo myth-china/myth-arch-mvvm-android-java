@@ -1,4 +1,4 @@
-package com.ywq.myth_arch_mvvm_android_java;
+package com.myth.myth_arch_mvvm_lib;
 
 import org.junit.Test;
 

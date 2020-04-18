@@ -1,4 +1,4 @@
-package com.ywq.myth_arch_mvvm_lib;
+package com.myth.myth_arch_mvvm_lib;
 
 import android.app.Application;
 

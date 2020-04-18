@@ -1,12 +1,12 @@
-package com.ywq.myth_arch_mvvm_lib.view;
+package com.myth.myth_arch_mvvm_lib.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
 import androidx.lifecycle.ViewModelProvider;
 import androidx.lifecycle.ViewModelStoreOwner;
 
-import com.ywq.myth_arch_mvvm_lib.MythView;
-import com.ywq.myth_arch_mvvm_lib.MythViewModel;
+import com.myth.myth_arch_mvvm_lib.MythView;
+import com.myth.myth_arch_mvvm_lib.MythViewModel;
 
 public class MythViewProvider {
 

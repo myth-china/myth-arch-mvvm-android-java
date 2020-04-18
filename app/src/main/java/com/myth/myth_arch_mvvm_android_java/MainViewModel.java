@@ -1,4 +1,4 @@
-package com.ywq.myth_arch_mvvm_android_java;
+package com.myth.myth_arch_mvvm_android_java;
 
 import android.app.Application;
 import android.widget.Toast;
@@ -6,8 +6,8 @@ import android.widget.Toast;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.ywq.myth_arch_mvvm_lib.MythViewModel;
-import com.ywq.myth_arch_mvvm_lib.ext.UseActivityExt;
+import com.myth.myth_arch_mvvm_lib.MythViewModel;
+import com.myth.myth_arch_mvvm_lib.ext.UseActivityExt;
 
 public class MainViewModel extends MythViewModel {
 

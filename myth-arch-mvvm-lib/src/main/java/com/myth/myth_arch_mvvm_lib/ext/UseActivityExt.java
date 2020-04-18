@@ -1,4 +1,4 @@
-package com.ywq.myth_arch_mvvm_lib.ext;
+package com.myth.myth_arch_mvvm_lib.ext;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
@@ -7,9 +7,9 @@ import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.Observer;
 
-import com.ywq.myth_arch_mvvm_lib.MythView;
-import com.ywq.myth_arch_mvvm_lib.MythViewModelExt;
-import com.ywq.myth_arch_mvvm_lib.event.OnceEvent;
+import com.myth.myth_arch_mvvm_lib.MythView;
+import com.myth.myth_arch_mvvm_lib.MythViewModelExt;
+import com.myth.myth_arch_mvvm_lib.event.OnceEvent;
 
 public class UseActivityExt implements MythViewModelExt {
     public static final String KEY = "use_activity_ext";
